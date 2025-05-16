@@ -67,4 +67,4 @@ jobs:
       contents: read
       pull-requests: read
       security-events: write
-    uses: check-spelling/check-spelling-docs/.github/workflows/spelling.yml@main
+    uses: check-spelling-sandbox/refactored-waffle/.github/workflows/spelling.yml@main
