@@ -45,3 +45,6 @@ Add as `\bMicroSoft\b`
 # Reject duplicate words
 \b(\w{3,})\s\g{-1}\b
 ```
+
+---
+[FAQ](FAQ) | [Showcase](Showcase) | [Event descriptions](Event-descriptions) | [Configuration information](Configuration-information) | [Known Issues](Known-Issues) | [Possible features](Possible-features) | [Deprecations](Deprecations) | [Release notes](Release-notes) | [Helpful scripts](Helpful-scripts)
